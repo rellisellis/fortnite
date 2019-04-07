@@ -8,7 +8,7 @@ bot.on('message', message => {
     if (msg === prefix + 'image') {
         message.channel.send('Message that goes above image', {
             files: [
-                "./image-to-send.png"
+                "https://esportsjunkie.com/wp-content/uploads/2019/04/HowFortniteWonSite.png.jpeg"
             ]
         });
     }
