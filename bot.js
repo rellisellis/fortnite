@@ -14,4 +14,4 @@ bot.on('message', message => {
     }
 });
 
-bot.login('NTY0NDg1NDY1MDU5NzUzOTg1.XKokFA.403vsMXPKSScwPBpf-WGBoj4kpI');
+bot.login('NTY0NDg1NDY1MDU5NzUzOTg1.XLDVwA.ryersAbVje1qPCM7FPChOcG178Q');
